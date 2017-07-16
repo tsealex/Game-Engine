@@ -1,0 +1,6 @@
+[30|30|20|Planet.png]
+[300|150|20|Planet.png]
+[500|50|50|Planet.png]
+[70|-100|70|Planet.png]
+[70|0|70|Planet.png]
+[150|80|70|Planet.png]
